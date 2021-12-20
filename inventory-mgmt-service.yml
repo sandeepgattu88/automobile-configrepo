@@ -9,7 +9,7 @@ spring:
     generate-ddl: false    
 stock:
   transportType: air
-  slaDays: 500 
+  slaDays: 600 
 eureka:
   client:
     register-with-eureka: true
