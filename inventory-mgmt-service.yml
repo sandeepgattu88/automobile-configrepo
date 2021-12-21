@@ -8,8 +8,8 @@ spring:
     show-sql: true
     generate-ddl: false    
 stock:
-  transportType: air
-  slaDays: 900 
+  transportType: air1
+  slaDays: 100 
 eureka:
   client:
     register-with-eureka: true
