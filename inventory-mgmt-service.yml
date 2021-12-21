@@ -8,7 +8,7 @@ spring:
     show-sql: true
     generate-ddl: false    
 stock:
-  transportType: air4
+  transportType: air6
   slaDays: 100 
 eureka:
   client:
